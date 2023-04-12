@@ -5,4 +5,5 @@
 1. run `npm install` in the repository
 2. Create a folder named public in the folder
 3. Place any file you want to host
-4. Access it by http://localhost:3000/{fileName.png}
+4. run `node index.js`
+5. Access it by http://localhost:3000/{fileName.png}
