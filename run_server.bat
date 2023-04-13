@@ -1,1 +1,2 @@
+ipconfig /all
 node index
