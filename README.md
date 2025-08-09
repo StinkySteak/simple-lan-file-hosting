@@ -1,7 +1,10 @@
-# Simple LAN File hosting using Node express
+# Simple File hosting using Node express
 
 ### Prerequisites
-1. Node Js Installed
+1. Node.js Installed
+
+### Port forwarding
+1. This Node.js server does not resolve port forwarding for you. You may use a relay or reverse tunneling like ngrok
 
 ### How to use?
 
